@@ -12,4 +12,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=d1n4ara&show_icons=true&theme=dark&locale=en" alt="d1n4ara" /></p>
 
-![snake gif](https://github.com/GuBalero/GuBalero/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/d1n4ara/d1n4ara/blob/output/github-contribution-grid-snake.svg)
