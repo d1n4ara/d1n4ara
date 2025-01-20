@@ -1,5 +1,5 @@
 <h1 align="center">Holla 👋🏽, Me llamo Dandara</h1>
-<h3 align="center">Tenho 17 anos e sou estudante da Etec de Guaianazes.</h3>
+<h3 align="center">Tenho 18 anos e sou estudante da Etec de Guaianazes.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=d1n4ara&label=Profile%20views&color=d062a2&style=flat" alt="d1n4ara" /> </p>
 
