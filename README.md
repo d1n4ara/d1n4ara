@@ -8,7 +8,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif](https://i.pinimg.com/736x/e6/34/e3/e634e3ee8cb4b67d214e93fc1fa45301.jpg"  />
+<img src="https://i.pinimg.com/736x/de/5d/71/de5d712e89f421161dfababd1819c3b9.jpg" alt="Imagem personalizada" height="150" />
 
 ###
 
