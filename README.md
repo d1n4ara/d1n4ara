@@ -1,14 +1,18 @@
 <h2 align="left">Hi 👋! My name is Dandara and I'm a technology student and developer from Brazil.</h2>
 
+<img align="right" height="150" src="https://i.pinimg.com/736x/de/5d/71/de5d712e89f421161dfababd1819c3b9.jpg" alt="Dandara dev" />
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dandaradev&show_icons=true&theme=dracula&locale=en" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dandaradev&layout=compact&langs_count=5&theme=dracula" height="150" />
+</div>
+
+
 ###
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dandaradev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dandaradev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
-
-###
-
-<img src="https://i.pinimg.com/736x/de/5d/71/de5d712e89f421161dfababd1819c3b9.jpg" alt="Imagem personalizada" height="150" />
 
 ###
 
