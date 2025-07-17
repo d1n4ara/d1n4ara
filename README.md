@@ -7,6 +7,11 @@
 </div>
 
 ###
+
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif](https://i.pinimg.com/736x/e6/34/e3/e634e3ee8cb4b67d214e93fc1fa45301.jpg"  />
+
+###
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
